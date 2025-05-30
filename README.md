@@ -34,3 +34,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=git-suraj-hub&show_icons=true&locale=en&layout=compact" alt="git-suraj-hub" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=git-suraj-hub&show_icons=true&locale=en" alt="git-suraj-hub" /></p>
+
+<img src="https://raw.githubusercontent.com/Git-Suraj-hub/Git-Suraj-hub/output/snake.svg" alt="Snake animation" />
+
+###
