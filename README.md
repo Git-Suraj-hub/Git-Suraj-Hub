@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=git-suraj-hub" alt="git-suraj-hub" /></a> </p>
 
-- 🔭 I Completed [Car Price Prediction Web App](https://github.com/Git-Suraj-hub/Car-Price-Prediction)
+- 🔭 I Completed [Car Price Prediction Web App](https://car-price-prediction-web.streamlit.app/)
 
 - 🌱 I’m currently learning **Machine Learning,Deep Learning,Editing etc..**
 
 - 👯 I Completed [Spam Mail Detection Web App](https://spam-mail-prediction-web.streamlit.app/)
 
-- 🤝 I Completed [Book Recommendation Web App](https://github.com/Git-Suraj-hub/Book-Recommendation)
+- 🤝 I Completed [Book Recommendation Web App](https://book-recommendations-web.streamlit.app/)
 
 - 👨‍💻 All of my projects are available at [https://portfolio-kappa-three-80.vercel.app/](https://portfolio-kappa-three-80.vercel.app/)
 
