@@ -35,6 +35,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=git-suraj-hub&show_icons=true&locale=en" alt="git-suraj-hub" /></p>
 
-<img src="https://raw.githubusercontent.com/Git-Suraj-hub/Git-Suraj-hub/output/snake.svg" alt="Snake animation" />
+
+![Snake animation](https://raw.githubusercontent.com/{Git-Suraj-hub}/{Git-Suraj-hub}/output/github-contribution-grid-snake-dark.svg)
 
 ###
