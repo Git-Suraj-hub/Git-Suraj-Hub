@@ -16,6 +16,8 @@
 
 - 🤝 I Completed [Book Recommendation Web App](https://book-recommendations-web.streamlit.app/)
 
+- 🤕 I Completed [Intovert And Extrovert Prediction](https://introvert-and-extrovert.streamlit.app/) 
+
 - 👨‍💻 All of my projects are available at [https://portfolio-kappa-three-80.vercel.app/](https://portfolio-kappa-three-80.vercel.app/)
 
 - 💬 Ask me about **OOPS,D.S.A.,C,C++,Python**
