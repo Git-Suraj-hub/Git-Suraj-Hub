@@ -5,8 +5,12 @@
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=git-suraj-hub&label=Profile%20views&color=0e75b6&style=flat" alt="git-suraj-hub" /> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=git-suraj-hub&theme=onedark&margin-w=15" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=git-suraj-hub" alt="git-suraj-hub" /></a> </p>
 
 - 🔭 I Completed [Car Price Prediction Web App](https://car-price-prediction-web.streamlit.app/)
 
