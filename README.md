@@ -10,11 +10,11 @@
     <img src="https://github-profile-trophy.vercel.app/?username=git-suraj-hub&theme=onedark&margin-w=15" />
   </a>
 </p>
+- 🌱 I’m currently learning **Machine Learning,Deep Learning,Editing etc..**
 
+- 🔭 I Completed [AI-powered real-time attendance automation](https://github.com/Git-Suraj-hub/Vision_Mark.git)
 
 - 🔭 I Completed [Car Price Prediction Web App](https://car-price-prediction-web.streamlit.app/)
-
-- 🌱 I’m currently learning **Machine Learning,Deep Learning,Editing etc..**
 
 - 👯 I Completed [Spam Mail Detection Web App](https://spam-mail-prediction-web.streamlit.app/)
 
